@@ -1,0 +1,6 @@
+C:\Users\sivanov\Desktop\Camel\BuildListOfParticipants\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.exe.config
+C:\Users\sivanov\Desktop\Camel\BuildListOfParticipants\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.exe
+C:\Users\sivanov\Desktop\Camel\BuildListOfParticipants\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.pdb
+C:\Users\sivanov\Desktop\Camel\BuildListOfParticipants\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.csprojResolveAssemblyReference.cache
+C:\Users\sivanov\Desktop\Camel\BuildListOfParticipants\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.exe
+C:\Users\sivanov\Desktop\Camel\BuildListOfParticipants\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.pdb
