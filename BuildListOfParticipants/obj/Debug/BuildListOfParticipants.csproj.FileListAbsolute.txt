@@ -10,3 +10,8 @@ C:\Users\sivanov\Desktop\Camel repo\Book-of-Abstracts-creator\BuildListOfPartici
 C:\Users\sivanov\Desktop\Camel repo\Book-of-Abstracts-creator\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.exe
 C:\Users\sivanov\Desktop\Camel repo\Book-of-Abstracts-creator\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.pdb
 C:\Users\sivanov\Desktop\Camel repo\Book-of-Abstracts-creator\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.csprojResolveAssemblyReference.cache
+D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.exe.config
+D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.exe
+D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.pdb
+D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.exe
+D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.pdb

@@ -6,7 +6,6 @@
 
     public class Startup
     {
-        
         public static StringBuilder content = new StringBuilder();
         public static string[] fileText;
 
