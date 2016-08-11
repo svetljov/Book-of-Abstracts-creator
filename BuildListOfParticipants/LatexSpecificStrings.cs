@@ -1,8 +1,8 @@
-﻿using System;
-using System.Text;
-
-namespace BuildListOfParticipants
+﻿namespace BuildListOfParticipants
 {
+    using System;
+    using System.Text;
+
     public class LatexSpecificStrings
     {
         public static void includePreamble()

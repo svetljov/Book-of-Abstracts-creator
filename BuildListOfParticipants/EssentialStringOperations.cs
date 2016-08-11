@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace BuildListOfParticipants
+﻿namespace BuildListOfParticipants
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
     public class EssentialStringOperations
     {
         private static string[] text = Startup.fileText;

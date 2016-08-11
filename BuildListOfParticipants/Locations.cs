@@ -1,7 +1,7 @@
-﻿using System.Collections.Generic;
-
-namespace BuildListOfParticipants
+﻿namespace BuildListOfParticipants
 {
+    using System.Collections.Generic;
+
     public class Locations
     {
         public static Dictionary<string, string> countryByCity = new Dictionary<string, string>()
