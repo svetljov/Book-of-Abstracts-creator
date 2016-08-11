@@ -15,3 +15,4 @@ D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-cre
 D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.pdb
 D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.exe
 D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\bin\Debug\BuildListOfParticipants.pdb
+D:\PRESENTATIONS\Book of abstracts\BuildParticipantsListC#\Book-of-Abstracts-creator\BuildListOfParticipants\obj\Debug\BuildListOfParticipants.csprojResolveAssemblyReference.cache
