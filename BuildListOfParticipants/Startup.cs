@@ -26,6 +26,9 @@
                 LatexSpecificStrings.includeEnding();
 
                 File.WriteAllText(OutputFileName, content.ToString());
+
+                Console.WriteLine("Press key to exit.");
+                Console.ReadLine();
             }
             else
             {
