@@ -35,6 +35,7 @@
             ["Sussex"] = "United Kingdom",
             ["Tel Aviv"] = "Israel",
             ["Turku"] = "Finland",
+            ["Ulm"] = "Germany",
             ["Warsaw"] = "Poland",
             ["Weizmann"] = "Israel",
             ["Zurich"] = "Switzerland"
