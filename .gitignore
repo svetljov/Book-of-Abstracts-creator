@@ -1,3 +1,11 @@
-obj/
-bin/
+*.csproj
+*.sln
+*.vs
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+properties
 .vs/
